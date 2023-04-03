@@ -1,0 +1,6 @@
+This is appliction
+Emoji
+type option
+color
+dark mode 
+
