@@ -4,3 +4,5 @@ type option
 color
 dark mode 
 
+paymet option
+send money
